@@ -1,0 +1,6 @@
+{
+  "name": "Alien Expedition - 3D Planetary Research System",
+  "description": "3D extraterrestrial exploration and scientific planetary research simulation system for Planet A-07 in Obsidian & Amber theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
